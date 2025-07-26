@@ -1,5 +1,6 @@
 💝 Hi! You can call me Fluffz.
 💻 I'm currently learning JavaScript.
+📓 I'm currently working on a text-based adventure game called ᴡᴀɴᴅᴇʀʟᴀɴᴅ. You can find it on my profile!
 🪛 My coding skillset includes:
    ✿ A little bit of JavaScript.
    ✿ HTML.
@@ -15,6 +16,7 @@
    ★ Bunnies (and other fluffy creatures)
    ★ Birdwatching (Amateur)
    ★ Making games! (I have yet to make a fully functional one...)
+✉️ You can reach me via email at puffball.scratch736@passinbox.com
 🩷 That's all about me!
 
 <!---
