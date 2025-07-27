@@ -34,7 +34,9 @@
    
    ★ Making games! (I have yet to make a fully functional one...)
    
-✉️ You can reach me via email at puffball.scratch736@passinbox.com
+✉️ You can reach me via email at @puffball.scratch736@passinbox.com
+
+✏️ Find my art at: https://ibispaint.com/artist4/105363672020621/?type=illust&sort=new
 
 🩷 That's all about me!
 
